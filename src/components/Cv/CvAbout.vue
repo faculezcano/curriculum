@@ -4,6 +4,7 @@ import data from '../../data'
 import { fas } from '@fortawesome/free-solid-svg-icons'
 import { far } from '@fortawesome/free-regular-svg-icons'
 import { fab } from '@fortawesome/free-brands-svg-icons'
+import CvQr from './CvQr.vue'
 
 const icons = { ...fas, ...far, ...fab }
 </script>
@@ -16,6 +17,8 @@ const icons = { ...fas, ...far, ...fab }
         <p>{{ data.about }}</p>
       </div>
       <div class="contact-col">
+        <CvQr />
+
         <div v-for="contact of data.contact" :key="contact.text" class="contact">
           <a :href="contact.link" :target="contact.target ?? '_blank'">
             <FontAwesomeIcon v-if="contact.icon" :icon="icons[contact.icon]" fixed-width />
