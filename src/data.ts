@@ -29,12 +29,6 @@ type Experience = {
 
 const contact: Contact[] = [
   {
-    icon: 'faGlobe',
-    text: 'Website',
-    link: document.location.href,
-    target: '_self'
-  },
-  {
     icon: 'faEnvelope',
     text: 'facu.lezca@gmail.com',
     link: 'mailto:facu.lezca@gmail.com',
@@ -44,7 +38,12 @@ const contact: Contact[] = [
     icon: 'faLinkedin',
     text: '@facundolezcano',
     link: 'https://www.linkedin.com/in/facundolezcano/'
-  }
+  },
+  {
+    icon: 'faGithub',
+    text: '@faculezcano',
+    link: 'https://github.com/faculezcano'
+  },
 ]
 
 const education: Education[] = [
@@ -107,7 +106,7 @@ const experience: Experience[] = [
     link: 'https://bdeo.io',
     position: 'Senior Full stack developer',
     description:
-      'Participate in technological stack modernization. Design and develop new product features. Lead and follow company OKRs',
+      'Participate in technological stack modernization. Implementation of Micro frontends using Module Federation. Design and develop new product features. Lead and follow company OKRs',
     from: 'abr 2022'
   },
   {
