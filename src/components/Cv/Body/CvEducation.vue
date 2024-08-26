@@ -10,6 +10,7 @@
 .education {
   .title {
     font-weight: bold;
+    color: var(--color-text);
   }
 
   .institution {
