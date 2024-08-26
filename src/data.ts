@@ -30,7 +30,7 @@ type Experience = {
 const contact: Contact[] = [
   {
     icon: 'faGlobe',
-    text: document.location.hostname,
+    text: 'Website',
     link: document.location.href,
     target: '_self'
   },
