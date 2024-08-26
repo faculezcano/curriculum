@@ -13,7 +13,7 @@
   }
 
   .institution {
-    font-weight: 100;
+    font-weight: 300;
   }
 }
 </style>

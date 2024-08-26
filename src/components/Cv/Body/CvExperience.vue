@@ -22,6 +22,6 @@ import data from '../../../data'
 }
 
 .position {
-  font-weight: 100;
+  font-weight: 300;
 }
 </style>

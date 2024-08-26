@@ -16,7 +16,7 @@ import data from '../../../data'
 
 <style scoped>
 .technologies {
-  padding: 16px;
+  padding: 0 8px;
   display: flex;
   flex-direction: column;
   gap: 4px;
