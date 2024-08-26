@@ -1,0 +1,46 @@
+<svg
+  viewBox="0 0 703.95001 704.10828"
+  version="1.1"
+  id="svg4"
+  sodipodi:docname="code-solid.svg"
+  width="703.95001"
+  height="704.10828"
+  inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+  xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+  xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:svg="http://www.w3.org/2000/svg">
+<style>
+@media (prefers-color-scheme: dark) {
+  path { fill: #ffffff; }
+}  
+</style>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     fit-margin-top="96"
+     fit-margin-bottom="96"
+     fit-margin-left="32"
+     fit-margin-right="32"
+     inkscape:zoom="0.88940775"
+     inkscape:cx="252.97733"
+     inkscape:cy="323.81099"
+     inkscape:window-width="1920"
+     inkscape:window-height="1007"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <!--!Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.-->
+  <path
+     d="m 424.775,97.254126 c -17,-4.9 -34.7,5.000004 -39.6,22.000004 l -128,448 c -4.9,17 5,34.7 22,39.6 17,4.9 34.7,-5 39.6,-22 l 128,-448 c 4.9,-17 -5,-34.7 -22,-39.600004 z m 80.6,120.100004 c -12.5,12.5 -12.5,32.8 0,45.3 l 89.3,89.4 -89.4,89.4 c -12.5,12.5 -12.5,32.8 0,45.3 12.5,12.5 32.8,12.5 45.3,0 l 112,-112 c 12.5,-12.5 12.5,-32.8 0,-45.3 l -112,-112 c -12.5,-12.5 -32.8,-12.5 -45.3,0 z m -306.7,0 c -12.5,-12.5 -32.8,-12.5 -45.3,0 l -112,112 c -12.5,12.5 -12.5,32.8 0,45.3 l 112,112 c 12.5,12.5 32.8,12.5 45.3,0 12.5,-12.5 12.5,-32.8 0,-45.3 l -89.4,-89.3 89.4,-89.4 c 12.5,-12.5 12.5,-32.8 0,-45.3 z"
+     id="path2" />
+</svg>
